@@ -165,6 +165,13 @@ a:focus {
 	flex: none;
 }
 
+.date svg {
+  fill: #25D366;
+  margin-top: 13px;
+  margin-left: -18px;
+  position: absolute;
+}
+
 .slide {
 	//opacity: 1;
 	pointer-events: none;
